@@ -1,3 +1,3 @@
 export default {
-  mapsKey: "AIzaSyADykNM1pcsyJsEfJTiuIdrJW_oay5xaHM"
+  mapsKey: "put your API key of Google Cloud Platform"
 };
